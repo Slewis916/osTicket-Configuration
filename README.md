@@ -20,3 +20,21 @@ Set permissions:
 - [x]Close Ticket: Allow users to close tickets (optional).
 
 Click Save Changes.
+
+
+## 2. Creating and Assigning Agents
+
+Agents manage tickets and provide support. Each agent belongs to a Role and Department.
+
+Steps to Add an Agent
+
+Navigate to Admin Panel > Agents > Add New Agent.
+
+- [x]Fill in Name, Email, Username, and Password.
+
+- [x]Assign an Agent Role (e.g., Support Staff, Supervisor, Admin).
+
+- [x]Assign the agent to a Department.
+
+- [x]Click Save Changes.
+
