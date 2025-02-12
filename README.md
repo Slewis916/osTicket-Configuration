@@ -13,7 +13,7 @@ Click Add New Role.
 
 Set permissions:
 
-- [x]View Tickets: Allow users to see their own tickets.
+- [x] View Tickets: Allow users to see their own tickets.
 
 - [x]Post Reply: Allow users to respond to their tickets.
 
