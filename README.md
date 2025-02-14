@@ -15,9 +15,9 @@ Set permissions:
 
 - [x] View Tickets: Allow users to see their own tickets.
 
-- [x]Post Reply: Allow users to respond to their tickets.
+- [x] Post Reply: Allow users to respond to their tickets.
 
-- [x]Close Ticket: Allow users to close tickets (optional).
+- [x] Close Ticket: Allow users to close tickets (optional).
 
 Click __Save Changes__.
 
@@ -30,13 +30,13 @@ Steps to Add an Agent
 
 Navigate to Admin Panel > Agents > Add New Agent.
 
-- [x]Fill in Name, Email, Username, and Password.
+- [x] Fill in Name, Email, Username, and Password.
 
-- [x]Assign an Agent Role (e.g., Support Staff, Supervisor, Admin).
+- [x] Assign an Agent Role (e.g., Support Staff, Supervisor, Admin).
 
-- [x]Assign the agent to a Department.
+- [x] Assign the agent to a Department.
 
-- [x]Click __Save Changes__.
+- [x] Click __Save Changes__.
 
 
 ## 3. Creating Teams (Collaboration Groups)
@@ -45,11 +45,11 @@ Teams allow agents from different departments to work together on specific ticke
 
 Steps to Create a Team
 
-- [x]Navigate to Admin Panel > Agents > Teams > Add New Team.
+- [x] Navigate to Admin Panel > Agents > Teams > Add New Team.
 
-- [x]Enter a Team Name.
+- [x] Enter a Team Name.
 
-- [x]Assign multiple agents across departments.
+- [x] Assign multiple agents across departments.
 
 Click __Save Changes__.
 
@@ -61,13 +61,13 @@ Departments define who manages specific tickets.
 
 Steps to Create a Department
 
-- [x]Navigate to Admin Panel > Agents > Departments > Add New Department.
+- [x] Navigate to Admin Panel > Agents > Departments > Add New Department.
 
-- [x]Enter a Department Name (e.g., IT Support, HR Helpdesk).
+- [x] Enter a Department Name (e.g., IT Support, HR Helpdesk).
 
-- [x]Assign a Department Head.
+- [x] Assign a Department Head.
 
-- [x]Set Auto-Assignment Rules.
+- [x] Set Auto-Assignment Rules.
 
 Click __Save Changes__.
 
@@ -79,13 +79,13 @@ Help Topics categorize tickets for better organization.
 
 Steps to Create Help Topics
 
-- [x]Navigate to Admin Panel > Manage > Help Topics.
+- [x] Navigate to Admin Panel > Manage > Help Topics.
 
-- [x]Click Add New Help Topic.
+- [x] Click Add New Help Topic.
 
-- [x]Enter a Name (e.g., "Password Reset", "VPN Access").
+- [x] Enter a Name (e.g., "Password Reset", "VPN Access").
 
-- [x]Assign the Help Topic to a Department.
+- [x] Assign the Help Topic to a Department.
 
 Click __Save Changes__.
 
