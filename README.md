@@ -65,10 +65,6 @@ Steps to Create a Department
 
 - [x] Enter a Department Name (e.g., IT Support, HR Helpdesk).
 
-- [x] Assign a Department Head.
-
-- [x] Set Auto-Assignment Rules.
-
 Click __Save Changes__.
 
 
@@ -84,8 +80,6 @@ Steps to Create Help Topics
 - [x] Click Add New Help Topic.
 
 - [x] Enter a Name (e.g., "Password Reset", "VPN Access").
-
-- [x] Assign the Help Topic to a Department.
 
 Click __Save Changes__.
 
