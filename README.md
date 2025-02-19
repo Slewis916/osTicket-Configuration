@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/assets/images/logo.png "osTicket Logo")
+![The San Juan Mountains are beautiful!](images/logo.png "osTicket Logo")
 
 
 # osTicket-Configuration
