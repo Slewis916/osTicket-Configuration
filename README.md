@@ -1,3 +1,6 @@
+![The San Juan Mountains are beautiful!](/assets/images/logo.png "osTicket Logo")
+
+
 # osTicket-Configuration
 This guide provides step-by-step instructions to configure Roles, Agents, Teams, Users, Departments, SLAs, and Help Topics in osTicket. 
 
