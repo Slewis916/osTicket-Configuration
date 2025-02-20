@@ -107,4 +107,7 @@ Create SLA rules like:
 
 3. Normal Priority – Response in 12 hours, Resolution in 24 hours.
 Assign SLAs to __departments__ and __help topics__.
+![Critical!](images/SLA1.png)
+![High!](images/SLA4.png)
+![Normal!](images/SLA12.png)
 
