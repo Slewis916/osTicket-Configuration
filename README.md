@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](images/logo.png "osTicket Logo")
+![osTicket Logo!](images/logo.png "osTicket Logo")
 
 
 # osTicket-Configuration
@@ -21,6 +21,7 @@ Set permissions:
 - [x] Post Reply: Allow users to respond to their tickets.
 
 - [x] Close Ticket: Allow users to close tickets (optional).
+  ![Create new user roles!](images/NEWROLE.png "Create user roles")
 
 Click __Save Changes__.
 
