@@ -111,3 +111,5 @@ Assign SLAs to __departments__ and __help topics__.
 ![High!](images/SLA4.png)
 ![Normal!](images/SLA12.png)
 
+By following this guide, you will have a fully configured osTicket system optimized for efficient ticket handling and support. 🚀
+
