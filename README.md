@@ -21,9 +21,12 @@ Set permissions:
 - [x] Post Reply: Allow users to respond to their tickets.
 
 - [x] Close Ticket: Allow users to close tickets (optional).
+  
+   Click __Save Changes__.
   ![Create new user roles!](images/NEWROLE.png "Create user roles")
+  ![Permissions for new role!](images/NEWROLE2.png "Role's permissions")
 
-Click __Save Changes__.
+
 
 
 ## 2. Creating and Assigning Agents
@@ -39,8 +42,9 @@ Navigate to Admin Panel > Agents > Add New Agent.
 - [x] Assign an Agent Role (e.g., Support Staff, Supervisor, Admin).
 
 - [x] Assign the agent to a Department.
+   ![Add new agent!](images/AGENTCREATION.png )
 
-- [x] Click __Save Changes__.
+    Click __Save Changes__.
 
 
 ## 3. Creating Teams (Collaboration Groups)
@@ -54,6 +58,7 @@ Steps to Create a Team
 - [x] Enter a Team Name.
 
 - [x] Assign multiple agents across departments.
+![create a Team!](images/TEAMCREATION.png)
 
 Click __Save Changes__.
 
