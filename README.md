@@ -28,7 +28,6 @@ Set permissions:
 
 
 
-
 ## 2. Creating and Assigning Agents
 
 Agents manage tickets and provide support. Each agent belongs to a Role and Department.
@@ -42,10 +41,9 @@ Navigate to Admin Panel > Agents > Add New Agent.
 - [x] Assign an Agent Role (e.g., Support Staff, Supervisor, Admin).
 
 - [x] Assign the agent to a Department.
-   ![Add new agent!](images/AGENTCREATION.png )
 
     Click __Save Changes__.
-
+   ![Add new agent!](images/AGENTCREATION.png )
 
 ## 3. Creating Teams (Collaboration Groups)
 
@@ -58,10 +56,9 @@ Steps to Create a Team
 - [x] Enter a Team Name.
 
 - [x] Assign multiple agents across departments.
-![create a Team!](images/TEAMCREATION.png)
 
 Click __Save Changes__.
-
+![create a Team!](images/TEAMCREATION.png)
 
 
 ## 4. Creating Departments (Ticket Routing)
@@ -75,6 +72,7 @@ Steps to Create a Department
 - [x] Enter a Department Name (e.g., IT Support, HR Helpdesk).
 
 Click __Save Changes__.
+![Department creation!](images/NEWDEPARTMENT.png)
 
 
 
@@ -91,6 +89,9 @@ Steps to Create Help Topics
 - [x] Enter a Name (e.g., "Password Reset", "VPN Access").
 
 Click __Save Changes__.
+![Help topics!](images/PASSWORDRESET.png)
+![Help topics!](images/VPNACCESS.png)
+![Help topics!](images/PAYROLLISSUES.png)
 
 
 
