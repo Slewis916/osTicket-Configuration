@@ -113,3 +113,6 @@ Assign SLAs to __departments__ and __help topics__.
 
 By following this guide, you will have a fully configured osTicket system optimized for efficient ticket handling and support. 🚀
 
+⬅️ [« Back to Installation](https://github.com/Slewis916/osTicket-Installation)  
+➡️ **Next Step:** [Simulate Ticket Lifecycle »](https://github.com/Slewis916/osTicket-Ticket-Lifecycle)
+
